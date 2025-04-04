@@ -1,6 +1,9 @@
 # BlockChian-Projects
 I done 6 BlockChain Projects in my 7 th semester (Btech-ce-ai). Have a look ,if you want reference for your projects
 
+Sample:
+![WhatsApp Image 2025-04-03 at 22 47 05_2b57f554](https://github.com/user-attachments/assets/f0d5275a-32cc-4d8a-94a7-3e40b2d8ad4c)
+
 🧩 Projects Overview
 1. 🔐 Simple Smart Contract with Solidity
 Description: Developed a basic smart contract in Solidity that stores and retrieves values on the Ethereum blockchain.
